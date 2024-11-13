@@ -28,9 +28,10 @@
 #
 # All directories are specified relative to the project directory where the makefile is found.
 #---------------------------------------------------------------------------------------------------------------------
+include /opt/devkitpro/libtonc/butano/butano/butano.mak
 TARGET      	:=  $(notdir $(CURDIR))
 BUILD       	:=  build
-LIBBUTANO   	:=  opt/devkitpro/libtonc/butano/butano
+LIBBUTANO   	:=  /opt/devkitpro/libtonc/butano/butano
 PYTHON      	:=  python
 SOURCES     	:=  src
 INCLUDES    	:=  include
@@ -38,7 +39,7 @@ DATA        	:=
 GRAPHICS    	:=  graphics
 AUDIO       	:=  audio
 DMGAUDIO    	:=  dmg_audio
-ROMTITLE    	:=  ROM TITLE
+ROMTITLE    	:=  BUTANO-PONG
 ROMCODE     	:=  SBTP
 USERFLAGS   	:=  
 USERCXXFLAGS	:=  
