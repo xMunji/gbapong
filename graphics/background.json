@@ -1,0 +1,7 @@
+{
+    "type": "regular_bg",
+    "bpp": 8,
+    "width": 256,
+    "height": 256,
+    "image": "background.bmp"
+}
