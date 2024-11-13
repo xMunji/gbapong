@@ -1,5 +1,5 @@
-#include "butano/bn_core.h"
-#include "butano/bn_sprite_text_generator.h"
+#include "bn_core.h"
+#include "bn_sprite_text_generator.h"
 // Additional includes for paddle and ball assets and game logic
 
 int main()
