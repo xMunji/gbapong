@@ -1,0 +1,2 @@
+clz.o: \
+ /opt/devkitpro/libtonc/butano/butano/hw/3rd_party/gba-modern/src/clz.s

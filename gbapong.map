@@ -1,0 +1,4 @@
+Archive member included to satisfy reference by file (symbol)
+
+/opt/devkitpro/devkitARM/bin/../lib/gcc/arm-none-eabi/14.2.0/thumb/libgcc.a(_sync_none.o)
+                              (__sync_synchronize_none)
